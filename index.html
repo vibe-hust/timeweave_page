@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f5f0">
+  <meta name="description" content="TimeWeave: Global Time, Local Blocks. Generating Minute-Long Videos from Action Schedules. Explore twelve 30-second video examples with timed prompts and a synchronized four-method comparison.">
+  <title>TimeWeave — Global Time, Local Blocks</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%231e453c'/%3E%3Ccircle cx='20' cy='20' r='12' fill='none' stroke='%23e4efcd' stroke-width='2'/%3E%3Cpath d='M20 12v9l6 3' fill='none' stroke='%23e4efcd' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css?v=public20261125"><script src="app.js?v=public20261125" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header wrap"><a class="wordmark" href="#"><svg width="29" height="29" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="16" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 10v11l8 4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="20" cy="20" r="2" fill="currentColor"/></svg>TimeWeave<span class="wordmark-dot">.</span></a><nav aria-label="Main navigation"><a href="#videos">Video examples</a><a href="#comparison">Comparison</a></nav><span class="header-note">Research project</span></header>
+<main id="main">
+<section class="hero wrap">
+  <p class="eyebrow"><span class="status-dot"></span> LONG VIDEO GENERATION</p>
+  <h1>Global Time, Local Blocks<span>Generating Minute-Long Videos<br class="desktop-break"> from Action Schedules</span></h1>
+  <p class="hero-lead">TimeWeave generates long videos from action schedules, keeping actions on a global timeline while generating one local block at a time.</p>
+  <div class="authors"><a href="https://github.com/cheyan9">Yang Chen<sup>1</sup></a><a href="https://github.com/Qthrive">Chengsong Qu<sup>1</sup></a><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&amp;hl=en">Runting Li<sup>1</sup></a><a href="https://www.cwi.nl/en/people/xuemei-zhou/">Xuemei Zhou<sup>2</sup></a><a href="https://tenglon.github.io/">Teng Long<sup>3</sup></a><a href="https://taohu.me/">Vincent Tao Hu<sup>1</sup></a></div><p class="affiliations"><sup>1</sup>Huazhong University of Science and Technology<br><sup>2</sup>Centrum voor Wiskunde en Informatica (CWI) &nbsp; <sup>3</sup>University of Trento</p>
+  <div class="hero-links"><a class="button secondary" href="TimeWeave-paper.pdf">📄 Paper + supplement</a><a class="button secondary" href="https://github.com/vibe-hust/ontime_code">💻 Code</a><a class="button primary" href="#videos"><span aria-hidden="true">▷</span> Explore the video examples</a></div>
+  <div class="hero-facts"><div><strong>10<span>s</span></strong><span>training sequences</span></div><div class="fact-path" aria-hidden="true">···················· →</div><div><strong>30<span>s</span></strong><span>examples shown below</span></div><div class="fact-divider"></div><div><strong>5<span>B</span></strong><span>model backbone</span></div></div>
+</section>
+<section id="videos" class="section wrap showcase" aria-labelledby="videos-title">
+  <div class="section-heading"><div><p class="eyebrow">01 / VIDEO EXAMPLES</p><h2 id="videos-title">Watch the timeline unfold.</h2></div><p>Twelve 30-second examples from our model.<br>Choose a scene, then press play.</p></div>
+  <div class="showcase-frame">
+   <div class="showcase-title"><h3 id="scene-name">Bicycle helmet</h3><div><span class="tag">Ours</span><span class="mono">30 s · continuous generation</span></div></div>
+   <div class="showcase-body">
+    <div class="hero-player"><video id="hero-video" src="https://media.y-chen.com/projects/ontime/01/ours.mp4" controls playsinline muted preload="metadata" aria-label="Our generated video: Bicycle helmet"></video><p class="video-error" id="hero-error" hidden>Unable to load the video. <a id="hero-direct" href="https://media.y-chen.com/projects/ontime/01/ours.mp4">Open the video directly</a>.</p></div>
+    <aside class="prompt-panel"><div class="prompt-heading"><span class="eyebrow">PROMPT AT THIS TIME</span><span id="hero-clock" class="mono">00:00 / 00:30</span></div><div id="hero-cues" class="active-cues"><p>Loading the event timeline…</p></div><div class="prompt-note">These are the prompt instructions at the current time, for comparison with the generated action.</div><details class="scene-details"><summary>Scene &amp; participants</summary><p id="scene-description"></p><div id="scene-actors"></div></details></aside>
+   </div>
+   <div class="timeline-heading"><span>Explore the prompt timeline</span><span>Click an interval to seek ↗</span></div><div id="hero-timeline" class="event-timeline" aria-label="Prompt event intervals"></div><div class="time-axis mono"><span>0 s</span><span>7.5 s</span><span>15 s</span><span>22.5 s</span><span>30 s</span></div>
+  </div>
+  <div id="scene-picker" class="scene-picker" aria-label="Choose a generated scene"></div>
+  <noscript><p>JavaScript enables scene selection and timed prompts. The video above can still be played with its native controls.</p></noscript>
+</section>
+<section id="comparison" class="section wrap" aria-labelledby="comparison-title">
+  <div class="section-heading"><div><p class="eyebrow">02 / SIDE-BY-SIDE</p><h2 id="comparison-title">Comparison with other baselines</h2></div><p>Four methods for each scene, shown in sync.<br>Inspect the actions, timing, and scene continuity.</p></div>
+  <div class="comparison-selector"><label for="compare-scene">Choose a scene</label><select id="compare-scene" aria-label="Choose the scene for all four methods"></select></div><p class="comparison-scenario" id="comparison-scenario">Bicycle helmet</p>
+  <div class="comparison-grid">
+   <figure class="comparison-card ours"><figcaption><span>Ours</span><button class="fullscreen" type="button" aria-label="Expand Ours video">↗</button></figcaption><video data-key="ours" data-method="Ours" data-src="https://media.y-chen.com/projects/ontime/01/ours.mp4" preload="none" muted playsinline aria-label="Ours bicycle helmet video"></video></figure>
+   <figure class="comparison-card"><figcaption><span>Self-Forcing</span><button class="fullscreen" type="button" aria-label="Expand Self-Forcing video">↗</button></figcaption><video data-key="sf" data-method="Self-Forcing" data-src="https://media.y-chen.com/projects/ontime/01/sf.mp4" preload="none" muted playsinline aria-label="Self-Forcing bicycle helmet video"></video></figure>
+   <figure class="comparison-card"><figcaption><span>LongLive</span><button class="fullscreen" type="button" aria-label="Expand LongLive video">↗</button></figcaption><video data-key="ll" data-method="LongLive" data-src="https://media.y-chen.com/projects/ontime/01/ll.mp4" preload="none" muted playsinline aria-label="LongLive bicycle helmet video"></video></figure>
+   <figure class="comparison-card"><figcaption><span>LongLive Interactive</span><button class="fullscreen" type="button" aria-label="Expand LongLive Interactive video">↗</button></figcaption><video data-key="ll-interactive" data-method="LongLive Interactive" data-src="https://media.y-chen.com/projects/ontime/01/ll-interactive.mp4" preload="none" muted playsinline aria-label="LongLive Interactive bicycle helmet video"></video></figure>
+  </div>
+  <div class="comparison-controls"><button id="compare-play" type="button" class="button primary">▷ Play all four</button><button id="compare-restart" type="button" class="button secondary">Replay</button><span id="compare-clock" class="mono">00:00 / 00:30</span><input id="compare-progress" type="range" min="0" max="30" step="0.0625" value="0" aria-label="Seek all four videos"></div>
+  <div class="comparison-prompt"><span class="eyebrow">PROMPT AT THIS TIME</span><div id="compare-cues" class="active-cues"></div></div><p class="comparison-note">Each set uses the same scene, event schedule, and seed. Self-Forcing and LongLive use a timed single prompt; LongLive Interactive switches prompts during generation. Examples are qualitative selections.</p><p id="compare-status" class="player-status" role="status" aria-live="polite">Select a scene, then play all four videos together.</p>
+</section>
+<section id="method" class="section wrap"><p class="eyebrow">03 / METHOD</p><h2>Global schedules. Local generation.</h2><p class="method-lead"><strong>Rolling Timeline Conditioning</strong> selects actions that overlap the current block’s temporal window and preserves their original timestamps. <strong>Global Context Anchoring</strong> keeps scene and participant descriptions untimed, sharing attention with the scheduled actions throughout generation.</p><img class="method-figure" src="method.png" alt="TimeWeave overview: timed actions and untimed global context condition causal video generation."><p class="comparison-note">The paper evaluates minute-long rollouts. The gallery above contains the existing twelve 30-second qualitative comparisons; they are selected examples, not the complete evaluation set.</p></section>
+<section id="citation" class="section wrap"><p class="eyebrow">04 / CITATION</p><h2>Cite this work</h2><pre><code>@misc{chen2026timeweave,
+  title={Global Time, Local Blocks: Generating Minute-Long Videos from Action Schedules},
+  author={Chen, Yang and Qu, Chengsong and Li, Runting and Zhou, Xuemei and Long, Teng and Hu, Vincent Tao},
+  year={2026},
+  howpublished={Research preprint},
+  url={https://vibe-hust.github.io/ontime_page/}
+}</code></pre></section>
+<section class="closing wrap"><div><p class="eyebrow">TIMEWEAVE</p><h2>From short sequences<br>to longer stories.</h2></div><a class="button primary" href="#videos">Back to the video examples <span aria-hidden="true">↑</span></a></section>
+</main>
+<footer class="wrap"><span>TimeWeave <span class="footer-divider">/</span> VibeLab</span><span>All videos shown are model-generated.</span></footer>
+</body></html>

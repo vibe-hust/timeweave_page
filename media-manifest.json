@@ -1,0 +1,242 @@
+[
+  {
+    "file": "01-ll-interactive.mp4",
+    "sha256": "c0e60763e586fd8baeaece3683c758dd46561206bf89f4d5fc3cb993283be8bb",
+    "url": "https://media.y-chen.com/projects/ontime/01/ll-interactive.mp4"
+  },
+  {
+    "file": "01-ll.mp4",
+    "sha256": "c2fb1dc1fc6085b97a814988562d1c03c3b155a19920d5a637af5704eea61ce2",
+    "url": "https://media.y-chen.com/projects/ontime/01/ll.mp4"
+  },
+  {
+    "file": "01-ours.mp4",
+    "sha256": "0f4607bceaa4dc45193cc9e2a2902a3eda51100932614debd45f5d08c1e144b2",
+    "url": "https://media.y-chen.com/projects/ontime/01/ours.mp4"
+  },
+  {
+    "file": "01-sf.mp4",
+    "sha256": "66f73a703d4e97a11771617d5b2a8e5dede405051edd81de2b138c5908691c95",
+    "url": "https://media.y-chen.com/projects/ontime/01/sf.mp4"
+  },
+  {
+    "file": "02-ll-interactive.mp4",
+    "sha256": "7de7eaad87f728c1b3a55b6d78e15cc235b6a1314eba20ec07625b75ca08579d",
+    "url": "https://media.y-chen.com/projects/ontime/02/ll-interactive.mp4"
+  },
+  {
+    "file": "02-ll.mp4",
+    "sha256": "28ad27c6be88ae10114e311de72286eb26ab0eecfef5dff670850da4ef1e8810",
+    "url": "https://media.y-chen.com/projects/ontime/02/ll.mp4"
+  },
+  {
+    "file": "02-ours.mp4",
+    "sha256": "2fcf7b211ee4638d86f4cf10c6bf19f479e0643db3ce881cc5c45194d0212e1c",
+    "url": "https://media.y-chen.com/projects/ontime/02/ours.mp4"
+  },
+  {
+    "file": "02-sf.mp4",
+    "sha256": "6d6ce46abb359244ba8437042e99e5bec4d75e95a5f27938b644ddaae8d8b63a",
+    "url": "https://media.y-chen.com/projects/ontime/02/sf.mp4"
+  },
+  {
+    "file": "03-ll-interactive.mp4",
+    "sha256": "3e880e25be93b65a3d82d8d52391facd7f5fe42e3d3bd85510326bd79eaf8a12",
+    "url": "https://media.y-chen.com/projects/ontime/03/ll-interactive.mp4"
+  },
+  {
+    "file": "03-ll.mp4",
+    "sha256": "4bf1b9f5f35626ae6ebb7688323d6cd7093a71df87a1d8cb92d7e0a50517bc32",
+    "url": "https://media.y-chen.com/projects/ontime/03/ll.mp4"
+  },
+  {
+    "file": "03-ours.mp4",
+    "sha256": "249e56dd07f3e82b9aac53dddbb28703a0f963cc3480ced00f04dd1c7fe19a67",
+    "url": "https://media.y-chen.com/projects/ontime/03/ours.mp4"
+  },
+  {
+    "file": "03-sf.mp4",
+    "sha256": "9040fe6c72e65e118b44ec48da574afc69eef8d20641481dc2b3d4981c5b7a27",
+    "url": "https://media.y-chen.com/projects/ontime/03/sf.mp4"
+  },
+  {
+    "file": "04-ll-interactive.mp4",
+    "sha256": "d1c4959f1bca1b978682ab613ddea36420ea51dd8cd1d460be1cdfbb0d244bfa",
+    "url": "https://media.y-chen.com/projects/ontime/04/ll-interactive.mp4"
+  },
+  {
+    "file": "04-ll.mp4",
+    "sha256": "69786175ab37a59be347df7b29316b49de0e02e5fc06fa83f885e240184facfc",
+    "url": "https://media.y-chen.com/projects/ontime/04/ll.mp4"
+  },
+  {
+    "file": "04-ours.mp4",
+    "sha256": "a1ff324593afd1a124c5acff510669ea1c026d6ec14c649d8e584db3170ac4b8",
+    "url": "https://media.y-chen.com/projects/ontime/04/ours.mp4"
+  },
+  {
+    "file": "04-sf.mp4",
+    "sha256": "353e5b13094a459f619f1aca743aa29cff84029fd2e6c9b1d29e01badc2ae54a",
+    "url": "https://media.y-chen.com/projects/ontime/04/sf.mp4"
+  },
+  {
+    "file": "05-ll-interactive.mp4",
+    "sha256": "e80de01e580eec78d94859449d04cbce97167667f14df08e21b48150801d1113",
+    "url": "https://media.y-chen.com/projects/ontime/05/ll-interactive.mp4"
+  },
+  {
+    "file": "05-ll.mp4",
+    "sha256": "044c21f158fe6eb2699dc4e4dfdf004711f6c38c8b9f38fa48337fd84f35df38",
+    "url": "https://media.y-chen.com/projects/ontime/05/ll.mp4"
+  },
+  {
+    "file": "05-ours.mp4",
+    "sha256": "5f80195a74a8ea3809d1ee332521d7c8dcfbdfed723d78cf83e0884079ab2b3c",
+    "url": "https://media.y-chen.com/projects/ontime/05/ours.mp4"
+  },
+  {
+    "file": "05-sf.mp4",
+    "sha256": "0c09cfa5a9e054c14156818ca5b809773850496eb03db346adc8c62e2eaa2f37",
+    "url": "https://media.y-chen.com/projects/ontime/05/sf.mp4"
+  },
+  {
+    "file": "06-ll-interactive.mp4",
+    "sha256": "54610b5b1bc91e64f23d91546ddc267f82d496425b0a1054f213e5e0b67e190b",
+    "url": "https://media.y-chen.com/projects/ontime/06/ll-interactive.mp4"
+  },
+  {
+    "file": "06-ll.mp4",
+    "sha256": "7b73db41371edd06018a72618560dd569983c0a369f2f7e8c8c542f446b45177",
+    "url": "https://media.y-chen.com/projects/ontime/06/ll.mp4"
+  },
+  {
+    "file": "06-ours.mp4",
+    "sha256": "cb26cdb2a3d178eed780de2125714fd8591cc90a0a1a396286faf70bbda26809",
+    "url": "https://media.y-chen.com/projects/ontime/06/ours.mp4"
+  },
+  {
+    "file": "06-sf.mp4",
+    "sha256": "b9d50019457c69f5aba07c253f73e25f8cf6f107b5971f02e41852cd56ef9fc8",
+    "url": "https://media.y-chen.com/projects/ontime/06/sf.mp4"
+  },
+  {
+    "file": "07-ll-interactive.mp4",
+    "sha256": "eb22abcd8c0dedc53014d5c6dd5c10c8b9d57f03949b077bfb4f2c4e79c29cec",
+    "url": "https://media.y-chen.com/projects/ontime/07/ll-interactive.mp4"
+  },
+  {
+    "file": "07-ll.mp4",
+    "sha256": "8beaafb135ac8d36b3fc384282d96cd5e05e99e06257cbd7baf7304074b83e45",
+    "url": "https://media.y-chen.com/projects/ontime/07/ll.mp4"
+  },
+  {
+    "file": "07-ours.mp4",
+    "sha256": "c8daee0e962a43f3282bac8bb7d4d1e3c50fa3c10866c7cfa99b18ff8f32143b",
+    "url": "https://media.y-chen.com/projects/ontime/07/ours.mp4"
+  },
+  {
+    "file": "07-sf.mp4",
+    "sha256": "744dd80d7380bd9a3df31e706dbd9bbdc52f494205513ae8ed3c296d85b9ed86",
+    "url": "https://media.y-chen.com/projects/ontime/07/sf.mp4"
+  },
+  {
+    "file": "08-ll-interactive.mp4",
+    "sha256": "e470b80fb307665b25893937ced8739a0689d63f0ca382d2fdab9f53349cf277",
+    "url": "https://media.y-chen.com/projects/ontime/08/ll-interactive.mp4"
+  },
+  {
+    "file": "08-ll.mp4",
+    "sha256": "3046b11877c3fc7364a872c79163439a46fc25da47b494a711cefac0a5c816d8",
+    "url": "https://media.y-chen.com/projects/ontime/08/ll.mp4"
+  },
+  {
+    "file": "08-ours.mp4",
+    "sha256": "b438d8af24fb047d4a8d2a0fd6a4168945edd30c94c87952285a1b836430f1cd",
+    "url": "https://media.y-chen.com/projects/ontime/08/ours.mp4"
+  },
+  {
+    "file": "08-sf.mp4",
+    "sha256": "4db2849cff557c258328924b359db62bb91c9ac5272b84a4844404ba3f5a1647",
+    "url": "https://media.y-chen.com/projects/ontime/08/sf.mp4"
+  },
+  {
+    "file": "09-ll-interactive.mp4",
+    "sha256": "337b90c9451411453847d465f46c4fd6c46d9a06a2db0b5d79c82d71814bff3c",
+    "url": "https://media.y-chen.com/projects/ontime/09/ll-interactive.mp4"
+  },
+  {
+    "file": "09-ll.mp4",
+    "sha256": "d6ecb38fc34b192cf232c82ade2fc41fda49297ecd39c55f88f7c20f54846269",
+    "url": "https://media.y-chen.com/projects/ontime/09/ll.mp4"
+  },
+  {
+    "file": "09-ours.mp4",
+    "sha256": "2c3a6698e52ea19e5090c4df17fd5d224109ba264cbaec9a8ddc9799388c4420",
+    "url": "https://media.y-chen.com/projects/ontime/09/ours.mp4"
+  },
+  {
+    "file": "09-sf.mp4",
+    "sha256": "e38e44c7a0b9b4d2b3a60db7bd9db171ccec15fd979797e2a16ef3aaba0ae862",
+    "url": "https://media.y-chen.com/projects/ontime/09/sf.mp4"
+  },
+  {
+    "file": "10-ll-interactive.mp4",
+    "sha256": "78aada8b3a930f733ed4bb692dc309066abacd5d0d7dd04c72aa0a8216ac6db9",
+    "url": "https://media.y-chen.com/projects/ontime/10/ll-interactive.mp4"
+  },
+  {
+    "file": "10-ll.mp4",
+    "sha256": "bc724ef36a3a19c25e932e3c5aa730c740281b93b861376a1a752dddbdc6f64f",
+    "url": "https://media.y-chen.com/projects/ontime/10/ll.mp4"
+  },
+  {
+    "file": "10-ours.mp4",
+    "sha256": "297f0bfccac382b0af7c64b60d3a590c571a1800bde9f9758b2af3159bb49db2",
+    "url": "https://media.y-chen.com/projects/ontime/10/ours.mp4"
+  },
+  {
+    "file": "10-sf.mp4",
+    "sha256": "7c2be90516feb5d260801f25e9ffb7f43a016afe05097d1b39c8302bb4f49b85",
+    "url": "https://media.y-chen.com/projects/ontime/10/sf.mp4"
+  },
+  {
+    "file": "11-ll-interactive.mp4",
+    "sha256": "526743dbdd9f77e94b9aa70e915021d2e0e0e900fca78f5a3fbdd21d946d11b4",
+    "url": "https://media.y-chen.com/projects/ontime/11/ll-interactive.mp4"
+  },
+  {
+    "file": "11-ll.mp4",
+    "sha256": "66ce8a98648b7d08399cc4b8ab1459812e27b7fa7b56268797c7756e3274b981",
+    "url": "https://media.y-chen.com/projects/ontime/11/ll.mp4"
+  },
+  {
+    "file": "11-ours.mp4",
+    "sha256": "7a05eb4d9169314f194014ee764c5d46e070211144601ceb9a1b2ec66729b5f0",
+    "url": "https://media.y-chen.com/projects/ontime/11/ours.mp4"
+  },
+  {
+    "file": "11-sf.mp4",
+    "sha256": "c0fb00837aa6b223e1c6e796372d296103d54907065c616dd042443303c2ca93",
+    "url": "https://media.y-chen.com/projects/ontime/11/sf.mp4"
+  },
+  {
+    "file": "12-ll-interactive.mp4",
+    "sha256": "2e0532b77c76f0f3462ac4ba5ecc2d6d1e27122bbc9c87b742c36a77e0a178b0",
+    "url": "https://media.y-chen.com/projects/ontime/12/ll-interactive.mp4"
+  },
+  {
+    "file": "12-ll.mp4",
+    "sha256": "f3a683c06d70c985f92d60b703015d4426460a66080564a66fb50f499f6099af",
+    "url": "https://media.y-chen.com/projects/ontime/12/ll.mp4"
+  },
+  {
+    "file": "12-ours.mp4",
+    "sha256": "14dbc727e935e45a2fbd9e0b294fd61b31e49802150f158173f13bbb4d19b5d7",
+    "url": "https://media.y-chen.com/projects/ontime/12/ours.mp4"
+  },
+  {
+    "file": "12-sf.mp4",
+    "sha256": "056b1a1ff79dffca9b8318cff74f5bc5b2dc5afc1157535b344e98202cc60fe9",
+    "url": "https://media.y-chen.com/projects/ontime/12/sf.mp4"
+  }
+]

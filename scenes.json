@@ -1,0 +1,1020 @@
+{
+  "scenes": [
+    {
+      "id": "scene-01",
+      "title": "Bicycle helmet",
+      "duration": 30,
+      "scene": "An empty concrete court has a damp sheen and faded white rectangular markings. Red-roofed single-story houses stand among green trees beneath an overcast sky. A blue bicycle has a visible side stand, and a black helmet hangs from the handlebar from the start. The court provides room for a short walk beside the bicycle.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 is a young man with short dark hair, wearing a purple-and-light-blue patterned sleeveless cycling jersey and black cycling shorts with a small leg logo. At the start, person_1 stands beside the blue frame with the left hand on the handlebar."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 5.0,
+          "text": "person_1 walks the blue bicycle along one faded white line, keeping the left hand on the handlebar and the right hand near the saddle.",
+          "subject": 1
+        },
+        {
+          "start": 5.0,
+          "end": 9.0,
+          "text": "person_1 slows to a stop, holds the brake and turns the front wheel slightly so the bicycle remains close beside the body.",
+          "subject": 1
+        },
+        {
+          "start": 9.0,
+          "end": 13.0,
+          "text": "person_1 lowers the side stand with one foot, eases the bicycle onto the support and tests the balance before releasing the saddle.",
+          "subject": 1
+        },
+        {
+          "start": 13.0,
+          "end": 17.0,
+          "text": "person_1 lifts the black helmet off the handlebar, turns the helmet upright and checks the hanging straps with both hands.",
+          "subject": 1
+        },
+        {
+          "start": 17.0,
+          "end": 22.0,
+          "text": "person_1 places the helmet over the short dark hair and brings the two chin-strap ends together, fastening the buckle beneath the chin.",
+          "subject": 1
+        },
+        {
+          "start": 22.0,
+          "end": 26.0,
+          "text": "person_1 pulls the loose strap end to remove slack, checks the fit with the fingertips and looks toward the open court.",
+          "subject": 1
+        },
+        {
+          "start": 26.0,
+          "end": 30.0,
+          "text": "person_1 returns the left hand to the handlebar, straightens the bicycle off the stand and remains standing beside the frame ready to move.",
+          "subject": 1
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/01/ours.mp4",
+      "videos": {
+        "ours": "https://media.y-chen.com/projects/ontime/01/ours.mp4",
+        "sf": "https://media.y-chen.com/projects/ontime/01/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/01/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/01/ll-interactive.mp4"
+      }
+    },
+    {
+      "id": "scene-02",
+      "title": "Dog stands and stretches",
+      "duration": 30,
+      "scene": "Late-afternoon sunlight warms a grassy field dotted with pink-purple wildflowers. An open patch of flattened grass provides space for the dog to rise and turn. The full white coat and lavender collar are clearly visible against the darker grass, with no other animal entering.",
+      "actors": [
+        {
+          "id": "dog_1",
+          "text": "dog_1 is a medium-sized dog with thick pure-white fur, pointed ears, dark eyes, a long muzzle and a bushy tail. A faint lavender collar circles the neck. At the start, dog_1 lies with the front paws extended, facing left and panting lightly."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 4.0,
+          "text": "dog_1 lifts the head and opens the jaw into a wide yawn, curls the tongue briefly and keeps both front paws planted in the grass.",
+          "subject": 1
+        },
+        {
+          "start": 4.0,
+          "end": 8.0,
+          "text": "dog_1 closes the mouth, lowers the head to the original angle and gives a quick lick across the nose before looking forward.",
+          "subject": 1
+        },
+        {
+          "start": 8.0,
+          "end": 13.0,
+          "text": "dog_1 pushes up through the front legs and stands, shakes the thick coat once and lets the bushy tail settle behind the body.",
+          "subject": 1
+        },
+        {
+          "start": 13.0,
+          "end": 18.0,
+          "text": "dog_1 steps the front paws forward, lowers the chest close to the grass and raises the hindquarters in a short comfortable stretch.",
+          "subject": 1
+        },
+        {
+          "start": 18.0,
+          "end": 22.0,
+          "text": "dog_1 straightens from the stretch, takes two small steps and turns toward the flattened patch beside the wildflowers.",
+          "subject": 1
+        },
+        {
+          "start": 22.0,
+          "end": 26.0,
+          "text": "dog_1 lowers the chest and hips onto the grass again, folds one hind leg beneath the body and places both front paws together.",
+          "subject": 1
+        },
+        {
+          "start": 26.0,
+          "end": 30.0,
+          "text": "dog_1 rests with the head held up, resumes a light pant and turns the ears toward the surrounding field.",
+          "subject": 1
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/02/ours.mp4",
+      "videos": {
+        "ours": "https://media.y-chen.com/projects/ontime/02/ours.mp4",
+        "sf": "https://media.y-chen.com/projects/ontime/02/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/02/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/02/ll-interactive.mp4"
+      }
+    },
+    {
+      "id": "scene-03",
+      "title": "Packing a suitcase",
+      "duration": 30,
+      "scene": "A sloped attic room contains a white-covered bed with green and brown hard-shell suitcases. Cardboard boxes stand beside a plant; a high window and floor lamp illuminate the packing area.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 has voluminous curly light-brown hair, a loose grey cardigan over a white T-shirt and dark trousers, initially seated on the bed edge."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 has dark hair in a bun, a fitted olive-green T-shirt tucked into khaki trousers, initially bent beside an open box."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 4.25,
+          "text": "person_1 releases the green suitcase latches and raises the lid until it stays open.",
+          "subject": 1
+        },
+        {
+          "start": 4.25,
+          "end": 8.75,
+          "text": "person_1 reaches into the open case and lifts a folded pink garment with both hands.",
+          "subject": 1
+        },
+        {
+          "start": 8.75,
+          "end": 12.25,
+          "text": "person_1 raises the pink garment to chest height, holding its corners apart to inspect it.",
+          "subject": 1
+        },
+        {
+          "start": 12.25,
+          "end": 17.25,
+          "text": "person_1 opens the garment slightly, smooths a crease and refolds it across the knees.",
+          "subject": 1
+        },
+        {
+          "start": 17.25,
+          "end": 22.0,
+          "text": "person_1 places the folded garment back into the case and tucks its edges flat.",
+          "subject": 1
+        },
+        {
+          "start": 22.0,
+          "end": 25.0,
+          "text": "person_1 looks toward person_2's sealed box and points to the space beside the bed.",
+          "subject": 1
+        },
+        {
+          "start": 25.0,
+          "end": 30.0,
+          "text": "person_1 lowers the suitcase lid and closes both latches while person_2 sets the box down.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 5.5,
+          "text": "person_2 folds the box flaps inward and presses the center seam flat with one palm.",
+          "subject": 2
+        },
+        {
+          "start": 5.5,
+          "end": 12.25,
+          "text": "person_2 draws clear tape across the closed flap seam, cuts it with the dispenser and presses the end down.",
+          "subject": 2
+        },
+        {
+          "start": 12.25,
+          "end": 18.25,
+          "text": "person_2 smooths the strip, sets the dispenser aside and presses the corners to check the closure.",
+          "subject": 2
+        },
+        {
+          "start": 18.25,
+          "end": 25.0,
+          "text": "person_2 straightens slightly, follows person_1's gesture and grips the sealed small box by its lower edges.",
+          "subject": 2
+        },
+        {
+          "start": 25.0,
+          "end": 30.0,
+          "text": "person_2 lifts the small box a short distance and sets it beside the bed, then straightens.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/03/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/03/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/03/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/03/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/03/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-04",
+      "title": "Flowers in a greenhouse",
+      "duration": 30,
+      "scene": "Rows of yellow flowers fill a greenhouse beneath an arched glass roof and metal beams. An adult and girl stand together along a clear aisle; the girl already holds one cut yellow bloom.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 has medium-length loose wavy brown hair and a dark green V-neck shirt, standing beside the girl."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 is a pre-teen girl with very long straight brown hair and a loose olive jacket over a light T-shirt, holding one yellow bloom in the left hand."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 3.0,
+          "text": "person_1 points toward a yellow blossom near the aisle and looks toward person_2.",
+          "subject": 1
+        },
+        {
+          "start": 3.0,
+          "end": 5.0,
+          "text": "person_1 lowers the hand, touches the chin briefly and watches the bloom person_2 raises.",
+          "subject": 1
+        },
+        {
+          "start": 5.0,
+          "end": 12.25,
+          "text": "person_1 leans closer to compare the cut bloom with the growing flower, keeping hands clear of petals.",
+          "subject": 1
+        },
+        {
+          "start": 12.25,
+          "end": 17.25,
+          "text": "person_1 straightens and walks two slow steps along the aisle beside person_2.",
+          "subject": 1
+        },
+        {
+          "start": 17.25,
+          "end": 24.0,
+          "text": "person_1 stops and bends slightly toward a second flower, lifting one leaf gently from below.",
+          "subject": 1
+        },
+        {
+          "start": 24.0,
+          "end": 30.0,
+          "text": "person_1 releases the leaf, straightens and nods toward the bloom person_2 holds at chest height.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 5.0,
+          "text": "person_2 raises the held bloom toward the face and points to a nearby cluster with the empty right hand, then lowers that hand.",
+          "subject": 2
+        },
+        {
+          "start": 5.0,
+          "end": 12.25,
+          "text": "person_2 holds the cut bloom beside the growing flower without pressing their petals together.",
+          "subject": 2
+        },
+        {
+          "start": 12.25,
+          "end": 17.25,
+          "text": "person_2 lowers the bloom and walks beside person_1, watching the path between plant tables.",
+          "subject": 2
+        },
+        {
+          "start": 17.25,
+          "end": 24.0,
+          "text": "person_2 stops beside person_1 and leans forward to watch the leaf being lifted.",
+          "subject": 2
+        },
+        {
+          "start": 24.0,
+          "end": 30.0,
+          "text": "person_2 raises the held bloom, rotates its stem between the fingers and smiles toward person_1.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/04/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/04/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/04/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/04/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/04/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-05",
+      "title": "Drawing together",
+      "duration": 30,
+      "scene": "Daylight fills a home with a spiral staircase, book shelves and a sofa. A dark wooden table holds paper, colored pencils and paints, with the adult and girl seated beside one another.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 has grey-streaked hair and a trimmed beard, wearing a navy-and-white striped long-sleeved shirt."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 is a girl with straight dark-brown hair past the shoulders, dimples and a plain white T-shirt, seated beside the red pencil."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 3.5,
+          "text": "person_1 leans closer to the girl and looks down at the paper, resting both forearms on the table.",
+          "subject": 1
+        },
+        {
+          "start": 3.5,
+          "end": 6.25,
+          "text": "person_1 points beside an unfinished shape and withdraws the finger before person_2 colors there.",
+          "subject": 1
+        },
+        {
+          "start": 6.25,
+          "end": 11.5,
+          "text": "person_1 withdraws the pointing finger and watches the red strokes while leaning beside person_2.",
+          "subject": 1
+        },
+        {
+          "start": 11.5,
+          "end": 14.0,
+          "text": "person_1 laughs broadly, tipping the head back with teeth visible, then looks toward person_2.",
+          "subject": 1
+        },
+        {
+          "start": 14.0,
+          "end": 22.25,
+          "text": "person_1 steadies the far paper corner while person_2 draws along the near edge.",
+          "subject": 1
+        },
+        {
+          "start": 22.25,
+          "end": 26.5,
+          "text": "person_1 releases the corner and sits upright as person_2 lifts the drawing.",
+          "subject": 1
+        },
+        {
+          "start": 26.5,
+          "end": 30.0,
+          "text": "person_1 points to the newly colored shape, nods and helps return the paper flat to the table.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 3.5,
+          "text": "person_2 looks up toward person_1, then lowers the gaze to the drawing.",
+          "subject": 2
+        },
+        {
+          "start": 3.5,
+          "end": 11.5,
+          "text": "person_2 takes the red pencil and colors inside the indicated shape after person_1 withdraws the finger.",
+          "subject": 2
+        },
+        {
+          "start": 11.5,
+          "end": 14.0,
+          "text": "person_2 stops the pencil above the paper, looks up and smiles with visible dimples at person_1's laughter.",
+          "subject": 2
+        },
+        {
+          "start": 14.0,
+          "end": 22.25,
+          "text": "person_2 resumes coloring, moving the pencil back and forth while the paper is steadied.",
+          "subject": 2
+        },
+        {
+          "start": 22.25,
+          "end": 26.5,
+          "text": "person_2 puts the pencil down and lifts the paper by its sides to show person_1.",
+          "subject": 2
+        },
+        {
+          "start": 26.5,
+          "end": 30.0,
+          "text": "person_2 turns the drawing slightly toward person_1, then lowers it onto the table with both hands.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/05/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/05/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/05/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/05/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/05/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-06",
+      "title": "Dance, then sit",
+      "duration": 30,
+      "scene": "Two girls face each other on sunlit grass beneath leafy trees. A stone monument stands off to one side, leaving a clear level patch around their feet for a small shared circle.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 has reddish-blond hair in two high ponytails and a white three-quarter-sleeved dress."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 has very dark hair woven into thick side braids and a plain white dress, initially facing person_1 with both hands linked."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 12.75,
+          "text": "person_1 takes small sideways steps through two gentle shared circles, keeping arms comfortably bent as ponytails and dress swing outward.",
+          "subject": 1
+        },
+        {
+          "start": 12.75,
+          "end": 17.25,
+          "text": "person_1 shortens each step to slow with person_2 and comes to a balanced stop facing the partner.",
+          "subject": 1
+        },
+        {
+          "start": 17.25,
+          "end": 21.0,
+          "text": "person_1 lowers and releases both hands, laughs and smooths the dress beside the knees.",
+          "subject": 1
+        },
+        {
+          "start": 21.0,
+          "end": 26.0,
+          "text": "person_1 bends the knees and sits on the grass beside person_2, using one hand for support.",
+          "subject": 1
+        },
+        {
+          "start": 26.0,
+          "end": 30.0,
+          "text": "person_1 settles upright on the grass, smooths the dress over the knees and laughs toward person_2.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 12.75,
+          "text": "person_2 follows both circles around the same midpoint and in the same turning direction, matching person_1's steps and keeping the grip comfortable.",
+          "subject": 2
+        },
+        {
+          "start": 12.75,
+          "end": 17.25,
+          "text": "person_2 reduces the stride together with person_1 and stops without pulling the joined hands.",
+          "subject": 2
+        },
+        {
+          "start": 17.25,
+          "end": 21.0,
+          "text": "person_2 releases the lowered hands, laughs and brushes a braid away from the face.",
+          "subject": 2
+        },
+        {
+          "start": 21.0,
+          "end": 30.0,
+          "text": "person_2 crouches, plants one palm on the grass and sits beside person_1, then adjusts a braid and laughs.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/06/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/06/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/06/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/06/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/06/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-07",
+      "title": "A visitor at the piano",
+      "duration": 30,
+      "scene": "A bright room with parquet flooring contains a piano, shelves of books and a vintage boombox. White doors and an upholstered armchair frame a clear path beside the pianist and a standing listener.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 has short wavy light-brown hair, a light-blue long-sleeved collared shirt and dark trousers, seated at the piano bench."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 is a bald dark-skinned man in a dark grey polo shirt and loose dark trousers, visible beside the armchair initially."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 11.25,
+          "text": "person_1 plays continuously with both hands while person_2 walks around the piano and stops beside the bench.",
+          "subject": 1
+        },
+        {
+          "start": 11.25,
+          "end": 14.0,
+          "text": "person_1 finishes the phrase and lifts both hands from the keys, turning slightly toward person_2.",
+          "subject": 1
+        },
+        {
+          "start": 14.0,
+          "end": 19.25,
+          "text": "person_1 listens with hands resting above the thighs and follows person_2's gesture.",
+          "subject": 1
+        },
+        {
+          "start": 19.25,
+          "end": 30.0,
+          "text": "person_1 returns both hands to the keys and plays another short passage, briefly glancing toward person_2 before refocusing.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 5.25,
+          "text": "person_2 walks toward the piano along its side, keeping clear of the bench.",
+          "subject": 2
+        },
+        {
+          "start": 5.25,
+          "end": 9.75,
+          "text": "person_2 rounds the front-left corner of the piano and stops beside the pianist with both arms lowered.",
+          "subject": 2
+        },
+        {
+          "start": 9.75,
+          "end": 14.0,
+          "text": "person_2 watches person_1 finish and leans slightly toward the keyboard.",
+          "subject": 2
+        },
+        {
+          "start": 14.0,
+          "end": 19.25,
+          "text": "person_2 makes a small open-hand gesture above the free keys without touching the pianist.",
+          "subject": 2
+        },
+        {
+          "start": 19.25,
+          "end": 22.0,
+          "text": "person_2 withdraws the hand and straightens as person_1 resumes.",
+          "subject": 2
+        },
+        {
+          "start": 22.0,
+          "end": 30.0,
+          "text": "person_2 listens beside the bench, nods gently and keeps both hands relaxed at the sides.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/07/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/07/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/07/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/07/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/07/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-08",
+      "title": "Winter expressions",
+      "duration": 30,
+      "scene": "Falling snow covers a park path beside a dark stone wall. Bare-branched trees and scattered benches lead toward faint distant buildings under a gray sky. The view clearly shows the face, scarf, mittens and upper body, with small snowflakes settling on the knitted hat and jacket.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 is a young girl with tightly curled light-brown hair, wearing a tan ribbed beanie, cream puffer jacket with a fluffy collar, light-blue knitted scarf and matching fingerless mittens. At the start, person_1 stands on the path with the hands gathered near the chin."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 4.0,
+          "text": "person_1 cups both mittened hands in front of the mouth and breathes gently into the hands, with a small cloud of breath visible in the cold air.",
+          "subject": 1
+        },
+        {
+          "start": 4.0,
+          "end": 8.0,
+          "text": "person_1 rubs the mittens together, turns the head sharply to the right and opens the eyes wider before breaking into a broad smile.",
+          "subject": 1
+        },
+        {
+          "start": 8.0,
+          "end": 13.0,
+          "text": "person_1 lowers the gaze and pulls the scarf more snugly around the neck with both hands, tucking the fabric just inside the fluffy jacket collar.",
+          "subject": 1
+        },
+        {
+          "start": 13.0,
+          "end": 17.0,
+          "text": "person_1 lifts the chin and looks upward at the falling snow, closes the eyes for a moment and smiles as a few flakes touch the face.",
+          "subject": 1
+        },
+        {
+          "start": 17.0,
+          "end": 22.0,
+          "text": "person_1 lowers the head and presses the sides of the tan beanie down over the ears, gathering the loose curls gently beneath the edge.",
+          "subject": 1
+        },
+        {
+          "start": 22.0,
+          "end": 26.0,
+          "text": "person_1 brushes snow from the left sleeve with the right mitten, then clears the opposite sleeve while turning the shoulders slightly.",
+          "subject": 1
+        },
+        {
+          "start": 26.0,
+          "end": 30.0,
+          "text": "person_1 brings both hands back near the scarf, takes two small steps in place and faces forward with a bright relaxed smile.",
+          "subject": 1
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/08/ours.mp4",
+      "videos": {
+        "ours": "https://media.y-chen.com/projects/ontime/08/ours.mp4",
+        "sf": "https://media.y-chen.com/projects/ontime/08/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/08/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/08/ll-interactive.mp4"
+      }
+    },
+    {
+      "id": "scene-09",
+      "title": "Document handoff",
+      "duration": 30,
+      "scene": "Window blinds light a meeting room with wooden desks, monitors and black office chairs. A white flip-chart stands near a desk holding a silver laptop and wire basket; both colleagues are visible initially.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 has fair skin and dark eyes, wearing a flowing white hijab and structured black jacket; initially beside the flip-chart with sheet in the left hand and pen in the right."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 has light skin, a soft beige hijab and matching tan blazer, seated at the desk from the opening with a notebook."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 3.5,
+          "text": "person_1 glances from the sheet to the flip-chart and turns toward person_2's desk.",
+          "subject": 1
+        },
+        {
+          "start": 3.5,
+          "end": 8.25,
+          "text": "person_1 pivots right and walks diagonally from the flip-chart toward person_2, keeping the sheet flat and the pen beside it.",
+          "subject": 1
+        },
+        {
+          "start": 8.25,
+          "end": 11.0,
+          "text": "person_1 extends the sheet across the desk and releases its edge after person_2 grips it.",
+          "subject": 1
+        },
+        {
+          "start": 11.0,
+          "end": 18.0,
+          "text": "person_1 stands beside person_2 and follows the seated colleague's finger along the sheet.",
+          "subject": 1
+        },
+        {
+          "start": 18.0,
+          "end": 24.25,
+          "text": "person_1 leans closer and uses the pen to circle one area on the sheet resting on the desk.",
+          "subject": 1
+        },
+        {
+          "start": 24.25,
+          "end": 30.0,
+          "text": "person_1 lifts the pen from the paper, straightens and nods while person_2 places the sheet beside the laptop.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 5.25,
+          "text": "person_2 reads the notebook and rests the left hand on its open page.",
+          "subject": 2
+        },
+        {
+          "start": 5.25,
+          "end": 8.25,
+          "text": "person_2 raises the head toward person_1 and clears a small space beside the notebook.",
+          "subject": 2
+        },
+        {
+          "start": 8.25,
+          "end": 11.0,
+          "text": "person_2 takes the offered sheet by its near edge and draws it onto the cleared space.",
+          "subject": 2
+        },
+        {
+          "start": 11.0,
+          "end": 15.0,
+          "text": "person_2 draws the page flat on the desk and leans over its printed text and graphics.",
+          "subject": 2
+        },
+        {
+          "start": 15.0,
+          "end": 18.0,
+          "text": "person_2 holds the page with the left hand, points at one printed area and then withdraws the right finger.",
+          "subject": 2
+        },
+        {
+          "start": 18.0,
+          "end": 24.25,
+          "text": "person_2 keeps the sheet still while person_1 marks the indicated area.",
+          "subject": 2
+        },
+        {
+          "start": 24.25,
+          "end": 30.0,
+          "text": "person_2 lifts the sheet to inspect the mark, then sets it beside the laptop and looks up.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/09/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/09/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/09/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/09/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/09/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-10",
+      "title": "Band pause and restart",
+      "duration": 30,
+      "scene": "A white-walled practice room contains a microphone, yellow electric guitar and red drum kit. Cables lie along the wall away from the performers' feet; both children and their instruments remain visible.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 is a young boy with medium-length blond hair, a patterned bandana and an open plaid flannel over a white T-shirt; a strap supports the yellow guitar."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 has voluminous dark curls and a black jacket, seated behind the red drum kit with one stick in each hand."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 9.25,
+          "text": "person_1 strums and visibly sings toward the microphone, briefly faces the viewer and then turns toward person_2.",
+          "subject": 1
+        },
+        {
+          "start": 9.25,
+          "end": 11.5,
+          "text": "person_1 gives a clear finishing head nod toward person_2 while playing the last controlled strums.",
+          "subject": 1
+        },
+        {
+          "start": 11.5,
+          "end": 15.0,
+          "text": "person_1 makes a final strum, mutes the strings with the right palm and steps slightly back from the microphone.",
+          "subject": 1
+        },
+        {
+          "start": 15.0,
+          "end": 20.25,
+          "text": "person_1 smiles toward person_2 and adjusts the left-hand chord position without strumming.",
+          "subject": 1
+        },
+        {
+          "start": 20.25,
+          "end": 22.0,
+          "text": "person_1 moves back toward the microphone and nods a new starting cue with the right hand poised above the strings.",
+          "subject": 1
+        },
+        {
+          "start": 22.0,
+          "end": 30.0,
+          "text": "person_1 resumes a short strummed phrase as person_2 joins, keeping the strap-supported guitar steady.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 5.0,
+          "text": "person_2 alternates controlled taps on the hi-hat and snare while watching the kit.",
+          "subject": 2
+        },
+        {
+          "start": 5.0,
+          "end": 9.25,
+          "text": "person_2 moves one stick to a tom for a brief fill, with curls bouncing slightly, then returns to the snare rhythm.",
+          "subject": 2
+        },
+        {
+          "start": 9.25,
+          "end": 11.5,
+          "text": "person_2 looks toward person_1's head cue while continuing a few quieter taps.",
+          "subject": 2
+        },
+        {
+          "start": 11.5,
+          "end": 15.0,
+          "text": "person_2 lands a final snare-and-cymbal accent after the cue and lifts both sticks clear.",
+          "subject": 2
+        },
+        {
+          "start": 15.0,
+          "end": 20.25,
+          "text": "person_2 rests the sticks above the lap and smiles back toward person_1.",
+          "subject": 2
+        },
+        {
+          "start": 20.25,
+          "end": 22.0,
+          "text": "person_2 watches the new head cue and raises both sticks into playing position.",
+          "subject": 2
+        },
+        {
+          "start": 22.0,
+          "end": 30.0,
+          "text": "person_2 joins the renewed guitar phrase with clear alternating snare and hi-hat strokes.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/10/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/10/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/10/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/10/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/10/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-11",
+      "title": "Reading and a globe",
+      "duration": 30,
+      "scene": "A bright white-walled room contains a grey table with colored notebooks, open books and a small globe. An adult and a girl sit close together, both visible beside an open illustrated book.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 has medium-brown hair, a pale long-sleeved button-up shirt, pale nail polish and a ring on the left ring finger, seated left and slightly behind the girl."
+        },
+        {
+          "id": "person_2",
+          "text": "person_2 has fair skin, blonde pigtails with patterned bows and a sleeveless white dress with lace trim at the neckline."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 5.5,
+          "text": "person_1 leans beside person_2 and follows the open page with the eyes, keeping both hands clear.",
+          "subject": 1
+        },
+        {
+          "start": 5.5,
+          "end": 7.0,
+          "text": "person_1 turns briefly toward the viewer and smiles, then faces the book again.",
+          "subject": 1
+        },
+        {
+          "start": 7.0,
+          "end": 12.5,
+          "text": "person_1 points at one illustration with the right index finger, then lifts the finger clear.",
+          "subject": 1
+        },
+        {
+          "start": 12.5,
+          "end": 17.0,
+          "text": "person_1 watches person_2 turn the page and rests the left palm beside the book.",
+          "subject": 1
+        },
+        {
+          "start": 17.0,
+          "end": 22.5,
+          "text": "person_1 steadies the globe base with the left hand, rotates the sphere slowly with the right fingertips and stops it.",
+          "subject": 1
+        },
+        {
+          "start": 22.5,
+          "end": 26.25,
+          "text": "person_1 holds the globe still while person_2 indicates a spot, then releases it after the pointing hand withdraws.",
+          "subject": 1
+        },
+        {
+          "start": 26.25,
+          "end": 30.0,
+          "text": "person_1 points back toward the open book and leans beside person_2 to look at the new page.",
+          "subject": 1
+        },
+        {
+          "start": 0.0,
+          "end": 7.0,
+          "text": "person_2 holds the book open and reads, briefly glances up to the left as person_1 smiles toward the viewer, then looks down again.",
+          "subject": 2
+        },
+        {
+          "start": 7.0,
+          "end": 12.5,
+          "text": "person_2 follows person_1's pointing finger and touches the indicated picture after the finger withdraws.",
+          "subject": 2
+        },
+        {
+          "start": 12.5,
+          "end": 17.0,
+          "text": "person_2 lifts the right page edge, turns one page and smooths it with the palm.",
+          "subject": 2
+        },
+        {
+          "start": 17.0,
+          "end": 22.5,
+          "text": "person_2 keeps the left hand beside the book and turns the head toward the slowly rotating globe.",
+          "subject": 2
+        },
+        {
+          "start": 22.5,
+          "end": 26.25,
+          "text": "person_2 points at a spot on the stopped globe, keeping the left hand beside the book, then withdraws the pointing hand.",
+          "subject": 2
+        },
+        {
+          "start": 26.25,
+          "end": 30.0,
+          "text": "person_2 turns back toward the open book and rests the right hand along its page edge.",
+          "subject": 2
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/11/ours.mp4",
+      "videos": {
+        "sf": "https://media.y-chen.com/projects/ontime/11/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/11/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/11/ll-interactive.mp4",
+        "ours": "https://media.y-chen.com/projects/ontime/11/ours.mp4"
+      }
+    },
+    {
+      "id": "scene-12",
+      "title": "Basketball dribbling",
+      "duration": 30,
+      "scene": "Bright overhead lights reflect from a polished indoor basketball court marked with yellow lines. Bleachers, wall banners and basketball hoops form the background. A clear patch of floor surrounds the player, with enough room for short lateral steps. No partner is needed for the ball-handling sequence.",
+      "actors": [
+        {
+          "id": "person_1",
+          "text": "person_1 is a dark-skinned man with short black hair and a beard, wearing a red T-shirt with white lettering, black shorts and dark sneakers with purple accents. At the start, person_1 stands in a wide bent-knee stance with a basketball beside the right hip."
+        }
+      ],
+      "events": [
+        {
+          "start": 0.0,
+          "end": 4.0,
+          "text": "person_1 pushes the basketball toward the floor with the right palm and continues low right-hand dribbles, keeping the knees bent and the left hand ready near the waist.",
+          "subject": 1
+        },
+        {
+          "start": 4.0,
+          "end": 8.0,
+          "text": "person_1 guides one bounce diagonally across the front of the body and receives the rising ball with the left hand, shifting weight toward the left foot.",
+          "subject": 1
+        },
+        {
+          "start": 8.0,
+          "end": 13.0,
+          "text": "person_1 dribbles with the left hand while taking two short sideways steps along the yellow line, keeping the ball outside the left knee.",
+          "subject": 1
+        },
+        {
+          "start": 13.0,
+          "end": 17.0,
+          "text": "person_1 sends the ball back across the body on a low bounce and resumes right-hand dribbles, straightening slightly before lowering the stance again.",
+          "subject": 1
+        },
+        {
+          "start": 17.0,
+          "end": 22.0,
+          "text": "person_1 takes two short steps in the opposite direction while dribbling, then plants both feet and brings the ball to the center on the final bounce.",
+          "subject": 1
+        },
+        {
+          "start": 22.0,
+          "end": 26.0,
+          "text": "person_1 catches the rising ball with both hands at waist height, stands upright and lifts the ball to the chest with both elbows comfortably bent.",
+          "subject": 1
+        },
+        {
+          "start": 26.0,
+          "end": 30.0,
+          "text": "person_1 tucks the basketball against the left side, shakes the free right hand once and looks toward the hoop with a relaxed expression.",
+          "subject": 1
+        }
+      ],
+      "video": "https://media.y-chen.com/projects/ontime/12/ours.mp4",
+      "videos": {
+        "ours": "https://media.y-chen.com/projects/ontime/12/ours.mp4",
+        "sf": "https://media.y-chen.com/projects/ontime/12/sf.mp4",
+        "ll": "https://media.y-chen.com/projects/ontime/12/ll.mp4",
+        "ll-interactive": "https://media.y-chen.com/projects/ontime/12/ll-interactive.mp4"
+      }
+    }
+  ]
+}
