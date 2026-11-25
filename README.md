@@ -2,8 +2,8 @@
 
 Public project website for **Global Time, Local Blocks: Generating Minute-Long Videos from Action Schedules** (formerly OnTime).
 
-- Live page: https://vibe-hust.github.io/ontime_page/
-- Code: https://github.com/vibe-hust/ontime_code
+- Live page: https://vibe-hust.github.io/timeweave_page/
+- Code: https://github.com/vibe-hust/timeweave_code
 - `TimeWeave-paper.pdf`: combined public preprint and supplementary material.
 - Twelve existing 30-second qualitative comparisons, with source prompts and unchanged event intervals.
 - Videos use the existing public media host; GitHub Pages serves the page, scripts, figure, and PDF.
