@@ -1,0 +1,33 @@
+/* Institution marks keep their original proportions and link to their homepages. */
+.institution-logos { display: flex; align-items: center; gap: 18px; flex: none; }
+.institution-logos a { display: flex; align-items: center; min-height: 44px; padding: 4px 0; text-decoration: none; }
+.institution-logos img { display: block; height: auto; max-width: none; object-fit: contain; border-radius: 0; }
+.institution-logos .institution-hust { width: 136px; filter: brightness(0); }
+.institution-logos .institution-cwi { width: 100px; }
+.institution-logos .institution-trento { width: 104px; filter: brightness(0); }
+.institution-logos a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; border-radius: 2px; }
+@media (max-width: 600px) {
+  .institution-logos { gap: 14px; }
+  .institution-logos .institution-hust { width: 116px; }
+  .institution-logos .institution-cwi { width: 83px; }
+  .institution-logos .institution-trento { width: 88px; }
+}
+@media (max-width: 360px) {
+  .institution-logos { gap: 10px; }
+  .institution-logos .institution-hust { width: 106px; }
+  .institution-logos .institution-cwi { width: 76px; }
+  .institution-logos .institution-trento { width: 80px; }
+}
+/* TimeWeave: keep the project wordmark beside its institutions. */
+.site-header { height: auto; min-height: 90px; flex-wrap: wrap; gap: 4px 28px; padding-block: 12px; }
+.site-header .header-note { display: none; }
+.site-header .wordmark { font-size: 21px; }
+.site-header nav { flex-wrap: wrap; gap: 10px 20px; }
+@media (max-width: 900px) {
+  .site-header .institution-logos { flex-basis: 100%; }
+  .site-header .wordmark { font-size: 19px; }
+}
+@media (max-width: 400px) {
+  .site-header { gap: 6px 18px; }
+  .site-header nav { margin-left: 0; gap: 8px 16px; }
+}
