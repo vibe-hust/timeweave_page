@@ -21,3 +21,6 @@
 .method-figure{display:block;width:100%;height:auto;margin:2rem 0;background:white;border-radius:12px}
 #citation pre{overflow:auto;padding:1.5rem;background:#eaf0e6;border-radius:12px;font-size:.85rem;line-height:1.6}
 @media(max-width:600px){.authors{font-size:.95rem}.affiliations{font-size:.8rem}.hero-links .button{font-size:.85rem}}
+
+/* GitHub mark inherits the existing button color, including hover states. */
+.github-icon { width: 1em; height: 1em; flex: none; fill: currentColor; stroke: none; }
